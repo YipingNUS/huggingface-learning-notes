@@ -7,4 +7,6 @@ This is a self-study note, I don't expect it to be useful to others. For the com
 ```
 Getting Started.ipynb: explore the input types of the library.
 Tasks.ipynb: using pre-trained model for various tasks.
+summarization-with-blurr.ipynb: Fine-tune a summarization model in BART-large
+dataset-quick-tour.ipynb: as the name suggests
 ```
